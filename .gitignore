@@ -1,4 +1,9 @@
 /.idea/
+/spring-cloud-learn-parent.iml
 /product-service/target/
 /product-service/product-service.iml
-/spring-cloud-learn-parent.iml
+/order-service/order-service.iml
+/order-service/target/
+/spring-cloud-learn-parent.ipr
+/spring-cloud-learn-parent.iws
+/eureka-service/eureka-service.iml
